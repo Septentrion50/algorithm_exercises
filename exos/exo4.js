@@ -1,4 +1,4 @@
-// Section 2 with O(n)
+// Section 2 with O(n) and single pass
 
 const sumWestView = (arr) => {
     if ([...arr].sort() === arr){
